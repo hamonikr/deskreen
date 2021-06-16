@@ -23,7 +23,7 @@
 ## 하모니카 사용자 (HamonikR 3.0 이상)
 ```
 sudo apt update
-sudo apt install iptvnator
+sudo apt install deskreen
 ```
 
 ## Other Ubuntu based distro
