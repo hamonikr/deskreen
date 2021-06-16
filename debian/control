@@ -1,0 +1,13 @@
+Source: deskreen
+Section: system
+Priority: optional
+Maintainer: HamoniKR <pkg@hamonikr.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.4
+
+Package: deskreen
+Architecture: all
+Depends:
+Recommends:
+Description: Easy Screen share tool
+ 모든 장치에 시스템 화면을 공유할 수 있는 프로그램.

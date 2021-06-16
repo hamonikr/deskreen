@@ -1,0 +1,9 @@
+deskreen (1.0.11-hamonikr1) jin; urgency=medium
+
+  * Release for HamoniKR 4.0
+   - Add Korean translation for App and Web
+   - Add debian package structure
+   - Changed default font as Noto Sans KR
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Jun 2021 15:04:39 +0900
+

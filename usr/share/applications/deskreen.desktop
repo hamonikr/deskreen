@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Deskreen
+Name[ko]=화면공유
+Exec=/opt/Deskreen/deskreen %U
+Terminal=false
+Type=Application
+Icon=deskreen
+StartupWMClass=Deskreen
+Comment=Deskreen turns any device into a secondary screen for your computer
+Comment[ko]=컴퓨터의 화면을 어떤 장치에서도 공유할 수 있습니다.
+Categories=Utility;
+Keywords=Deskreen;화면;공유;share;screen;데스크톱;원격;remote;
