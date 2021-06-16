@@ -12,15 +12,9 @@
 
 이 저장소는 하모니카 사용자를 위한 데비안 패키지를 제공하기 위해 업스트림에서 한글화를 적용하고 패키지를 제공합니다.
 
-## Changelog
- * Add Korean translation for App and Web
- * Add debian package structure
- * Changed default font as Noto Sans KR
+# 프로그램 설치
 
-
-# Install
-
-## 하모니카 사용자 (HamonikR 3.0 이상)
+## 하모니카 사용자 (HamoniKR 3.0 이상)
 ```
 sudo apt update
 sudo apt install deskreen
