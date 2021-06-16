@@ -1,4 +1,4 @@
-# Deskreen
+# Deskreen 화면 공유 프로그램
 
 ![app](app_1.png)
 
